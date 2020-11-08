@@ -11,7 +11,7 @@ truncation error: 테일러 급수등으로 근사치를 구할때 항을 어디
     function diffex(func,dfunc,x,n)
 
 초기값 설정      
-H: step size
+H: step size        
 D: finite difference        
 E: true error
 
